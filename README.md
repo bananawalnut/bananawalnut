@@ -4,9 +4,9 @@ Data Engineering and Automation
 - 🌱 I’m currently learning ...
 Everything I can!
 - 💞️ I’m looking to collaborate on ...
-Automating well established companies
+Anything Automation
 - 📫 How to reach me ...
-g.atkinson112@gmail.com
+gabriel@zenith-research.ca.com
 
 <!---
 bananawalnut/bananawalnut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
