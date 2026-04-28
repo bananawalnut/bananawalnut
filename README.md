@@ -6,7 +6,7 @@ All about knowledge graphs
 - 💞️ I’m looking to collaborate on ...
 Anything Automation
 - 📫 How to reach me ...
-gabriel@zenith-research.ca.com
+gabriel@zenith-research.ca
 
 <!---
 bananawalnut/bananawalnut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
