@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @bananawalnut
-
-gabriel@zenith-research.ca
+Hi, I’m @bananawalnut
 
 <!---
 bananawalnut/bananawalnut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
